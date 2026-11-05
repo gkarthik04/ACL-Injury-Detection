@@ -1,0 +1,16 @@
+# Model weights & data (too large / licensed — see README)
+*.pth
+*.pt
+*.ckpt
+data/
+MRNet-v1.0/
+*.npy
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
